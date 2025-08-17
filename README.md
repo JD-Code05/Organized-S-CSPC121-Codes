@@ -8,6 +8,6 @@ I am pleased to share my Python code from the (S-ITC112) Object-Oriented Program
 (4) Enabling Assessment 4 - Simulating Database-Like Records <br />
 (5) Enabling Assessment 5 -  Set(Lottery) <br />
 (6) Enabling Assessment 6 - Class1 <br />
-
+(7) Enabling Assessment 7 - Class2 <br />
 
 # Final Term Codes:

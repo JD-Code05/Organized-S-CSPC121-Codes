@@ -11,7 +11,8 @@ I am pleased to share my Python code from the (S-CSPC121) Object-Oriented Progra
 (1) Enabling Assessment - EA_Dictionary  
 (2) Enabling Assessment - SimpleGradingSystem  
 (3) Enabling Assessment - TemperatureSystem  
-(4) Enabling Assessment - DatabaseLikeRecords
+(4) Enabling Assessment - DatabaseLikeRecords  
+(5) Enabling Assessment - SetLottery
 
 
 ---

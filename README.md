@@ -9,7 +9,8 @@ I am pleased to share my Python code from the (S-CSPC121) Object-Oriented Progra
 
 ## Module 1 - Python Data Types
 (1) Enabling Assessment - EA_Dictionary  
-(2) Enabling Assessment - SimpleGradingSystem
+(2) Enabling Assessment - SimpleGradingSystem  
+(3) Enabling Assessment - TemperatureSystem
 
 
 ---

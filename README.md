@@ -1,5 +1,5 @@
 # Organized-Python-Codes
-I am pleased to share my Python code from the (S-CSPC121) Object-Oriented Programming course. The code has been organized according to the modules and includes comprehensive comments for clarity and understanding. Now included with Instructions in a PDF Format.  
+I am pleased to share my Python codes from the (S-CSPC121) Object-Oriented Programming course. The code has been organized according to the modules and includes comprehensive comments for clarity and understanding. Now included with Instructions in a PDF Format.  
 
 ---
 

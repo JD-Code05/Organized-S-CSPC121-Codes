@@ -12,7 +12,7 @@
 
 A collection of my Python programs from the **Object-Oriented Programming** course.  
 All codes are organized according to the modules and include comprehensive comments for clarity and understanding.  
-Each activity now includes **instructions in a PDF format** for easy reference (Final term codes were completed onsite and do not need to be submitted online for clarification.).
+Each activity now includes **instructions** for easy reference (Final term codes were completed onsite and do not need to be submitted online for clarification.).
 
 ---
 
